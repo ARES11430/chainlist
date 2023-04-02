@@ -2167,6 +2167,13 @@ export const extraRpcs = {
       }
     ],
   },
+  1996: {
+    rpcs: [
+      {
+        url: "https://rpc.blocksc.ir/",
+      }
+    ],
+  },
   88888888: {
     rpcs: [
       {
